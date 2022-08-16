@@ -16,7 +16,7 @@ public class ChiaHomework003 {
 		if (side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1) {
 			if (side1 == side2 || side1 == side3) {
 				if (side2 == side3) {
-					System.out.println("正三角");
+					System.out.println("正三角形");
 				} else {
 					System.out.println("等腰三角形");
 				}
